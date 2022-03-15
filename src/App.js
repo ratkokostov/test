@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>My react App</h1>
-      <h2> Author: PP</h2>
+      <h2> Author: PEtricevP</h2>
     </div>
   );
 }
